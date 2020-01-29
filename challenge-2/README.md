@@ -1,5 +1,5 @@
-# Challenge 1
-## [Live Demo](https://codepen.io/Kaiafa/pen/WNbBaNO)  
+# Challenge 2
+## [Live Demo](https://codepen.io/Kaiafa/pen/xxbNyow)  
 •HTML  
 •CSS (Scss)  
 •Tailwind  
