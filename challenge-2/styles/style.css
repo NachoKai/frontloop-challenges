@@ -76,4 +76,24 @@ body {
 .next {
   text-align: center !important;
 }
+
+.aba-rolagem {
+  color: rgba(0, 0, 0, 0.2);
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 15px;
+}
+
+.aba-rolagem span {
+  background-color: rgba(0, 0, 0, 0.2);
+  height: 8px;
+  width: 8px;
+  margin-left: 5px;
+  border-radius: 50%;
+}
+
+.aba-rolagem > span:nth-child(1) {
+  background-color: rgba(0, 0, 0, 0.5);
+}
 /*# sourceMappingURL=style.css.map */
