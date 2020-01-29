@@ -1,3 +1,5 @@
 # New Project
-## [Live Demo](https://nachokai.github.io/)  
-•
+## [Live Demo](https://codepen.io/Kaiafa/pen/WNbBaNO)  
+•HTML
+•CSS (Scss)
+•Tailwind
