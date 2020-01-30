@@ -13,4 +13,15 @@
   -webkit-user-drag: none;
   font-family: Roboto;
 }
+
+body {
+  background: -webkit-gradient(linear, left bottom, left top, from(#9ab6ce), to(#cfdce7));
+  background: linear-gradient(to top, #9ab6ce, #cfdce7);
+  height: 100vh;
+}
+
+.container {
+  background: #fff;
+  width: 30vw;
+}
 /*# sourceMappingURL=style.css.map */
